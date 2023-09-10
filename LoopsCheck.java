@@ -13,8 +13,6 @@ public class LoopsCheck {
         }
 
         //odwroc elemnty tablicy[1,3,5] -> [5,3,1]
-
-
         int [] tablica = new int[] {1,3,5};
         int[] arr = new int[tablica.length];
 
