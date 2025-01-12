@@ -1,0 +1,12 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñãæü
+ 
+java:S1598"‰This file "CalculatorTest.java" should be located in "cwiczeniaJava" directory, not in "/Users/tomaszhoffman/IdeaProjects/JavaCwiczenia".(¬¥ÿÎ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¥ÿÎ
+@	java:S106"+Replace this use of System.out by a logger.(œèæÛ
+?	java:S106	"+Replace this use of System.out by a logger.(Ÿ¿4
+@	java:S106"+Replace this use of System.out by a logger.(•ã¾
+E	java:S106"+Replace this use of System.out by a logger.(˜»áôıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(£¨§úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(üş’Áûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ãâ‡Æ
